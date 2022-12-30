@@ -1,0 +1,16 @@
+body{
+	background-image: url('al-aqsa.jpg');
+}
+
+h1{
+	text-align: center;
+	color: balck;
+	font-family: georgia;
+	font-size: 60px;
+	text-decoration: underline;
+}
+
+.first{
+	background-color: yellow;
+	height: 100px;
+}
